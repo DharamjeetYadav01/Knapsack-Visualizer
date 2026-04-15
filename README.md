@@ -1,2 +1,2 @@
 # Knapsack-Visualizer
-this is my DAA project 
+“A web-based visualizer for Fractional and 0/1 Knapsack algorithms using HTML, CSS, and JavaScript.”
